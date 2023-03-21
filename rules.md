@@ -28,7 +28,7 @@ Welcome to the official DankPods Community Discord guild, a place to discuss Dan
     Don't advertise your own content here. This includes streams, YT channels and Discord guild invites. This rule may not be enforced if the content is relevant to the discussion.
 
 10. Drama
-    Don't bring drama from other communities here.
+    Don’t bring drama from other communities or your personal life here. We are not therapists; seek help through the appropriate channels IRL.”
 
 11. Malware
     Malware is not allowed to be uploaded in this guild. This includes images with malware inside of them, since they may still trigger antimalware software.
@@ -42,7 +42,8 @@ Welcome to the official DankPods Community Discord guild, a place to discuss Dan
 14. Language
     This server is an English-speaking only server. It allows us to moderate the server without misunderstandings in language.
 
-
+15. Drugs 
+    This server does not allow any sort of discussions involving drugs or other substances. 
 
 Punishment Guidance
     Generally, we operate on a 3-strikes-you're-out system, starting with a warning, mute (length up to mod discretion) and finally a temporary or permanent ban.
